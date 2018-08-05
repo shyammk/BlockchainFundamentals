@@ -1,0 +1,10 @@
+Blockchain.py:
+----------------
+
+Through this program, we create a simple blockchain.
+
+We then mine new blocks by figuring out the proof of work or golden nonce.
+
+Finally we check the validity of the blockchain.
+
+Software Packages/Libraries: Spyder (Anaconda), Postman, Flask
